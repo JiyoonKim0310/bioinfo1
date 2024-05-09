@@ -1,0 +1,6 @@
+binfo1-datapack1/*.bam
+binfo1-datapack1/*.bai
+binfo1-datapack1/*.gtf
+binfo1-work/*.bam
+binfo1-work/*.bai
+binfo1-work/*.gtf
